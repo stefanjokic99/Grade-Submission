@@ -15,7 +15,7 @@ This project demonstrates how to develop stand-alone, production-grade web servi
 2. In a terminal window, navigate to this project's root folder
 3. Run
    ```bash   
-   .\mvnw spring-boot:run'
+   .\mvnw spring-boot:run
 4. The api is served on port 8080 
 
 ## Tools and Technologies
